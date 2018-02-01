@@ -1,0 +1,7 @@
+# Nick Petro
+
+Questions:
+
+1) 0x10010002
+2) 0x10010001
+3) Little endian, because it stores the least significant bit in the lowest memory address and the most significant bit in the greatest memory address.

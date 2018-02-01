@@ -1,0 +1,4 @@
+Nick Petro
+
+Practice Problems:
+3) 0x00000044 is stored in the address pointed to by $t2
